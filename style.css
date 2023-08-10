@@ -101,10 +101,10 @@ a:-webkit-any-link {
 }
 .footer-link {
     font-size: 0.8rem;
-    color: #11999e;
+    color: #e4f9f5;
 }
 .copyright {
-    color: #e4f9f5;
+    color: #11999e;
     padding-top: 30px; 
     font-size: smaller;
 }
